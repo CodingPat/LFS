@@ -1,5 +1,5 @@
-http://download.savannah.gnu.org/releases/acl/acl-2.2.52.src.tar.gz
-http://download.savannah.gnu.org/releases/attr/attr-2.4.47.src.tar.gz
+ftp://ftp.igh.cnrs.fr/pub/nongnu/acl/acl-2.2.52.src.tar.gz
+ftp://ftp.igh.cnrs.fr/pub/nongnu/attr/attr-2.4.47.src.tar.gz
 http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz
 http://ftp.gnu.org/gnu/automake/automake-1.15.tar.xz
 http://ftp.gnu.org/gnu/bash/bash-4.3.30.tar.gz
@@ -37,12 +37,12 @@ https://www.kernel.org/pub/linux/utils/kbd/kbd-2.0.3.tar.xz
 https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-23.tar.xz
 http://www.greenwoodsoftware.com/less/less-481.tar.gz
 https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.25.tar.xz
-http://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.4.1.tar.gz
+ftp://ftp.igh.cnrs.fr/pub/nongnu/libpipeline/libpipeline-1.4.1.tar.gz
 http://ftp.gnu.org/gnu/libtool/libtool-2.4.6.tar.xz
 https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.7.2.tar.xz
 http://ftp.gnu.org/gnu/m4/m4-1.4.17.tar.xz
 http://ftp.gnu.org/gnu/make/make-4.2.1.tar.bz2
-http://download.savannah.gnu.org/releases/man-db/man-db-2.7.5.tar.xz
+ftp://ftp.igh.cnrs.fr/pub/nongnu/man-db/man-db-2.7.5.tar.xz
 https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.07.tar.xz
 http://www.multiprecision.org/mpc/download/mpc-1.0.3.tar.gz
 http://www.mpfr.org/mpfr-3.1.4/mpfr-3.1.4.tar.xz

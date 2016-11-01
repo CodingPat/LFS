@@ -1,0 +1,7 @@
+http://www.linuxfromscratch.org/patches/lfs/7.10/bash-4.3.30-upstream_fixes-3.patch
+http://www.linuxfromscratch.org/patches/lfs/7.10/bc-1.06.95-memory_leak-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.10/bzip2-1.0.6-install_docs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.10/coreutils-8.25-i18n-2.patch
+http://www.linuxfromscratch.org/patches/lfs/7.10/glibc-2.24-fhs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.10/kbd-2.0.3-backs
+http://www.linuxfromscratch.org/patches/lfs/7.10/readline-6.3-upstream_fixes-3.patch
